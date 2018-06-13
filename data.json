@@ -7,7 +7,7 @@
          "horario":"19h",
          "local":"Praça Leonidas Melo",
          "descricao":"Abertura ofical da IV Edição da Festa do Peixe de Esperantina -   PI",
-         "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
+         "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/cachoeira_urubu.jpg"
       },
       "programacao_esportiva":[  
          {  
@@ -46,11 +46,11 @@
       "id":"2",
       "date":"Dia 28/07 (Sexta-feira)",
       "evento":{  
-         "nome":"Abertura Oficial",
+         "nome":"2º DIA - Garoto e Garota do Peixe",
          "horario":"19h",
          "local":"Praça Leonidas Melo",
          "descricao":"Abertura ofical da IV Edição da Festa do Peixe de Esperantina -   PI",
-         "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
+         "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/esp_cachoeira.jpg"
       },
       "programacao_esportiva":[  
          {  
@@ -90,11 +90,11 @@
       "id":"3",
       "date":"Dia 30/07 (Sexta-feira)",
       "evento":{  
-         "nome":"Abertura Oficial",
+         "nome":"Ultimo dia - Festa do Peixe",
          "horario":"19h",
          "local":"Praça Leonidas Melo",
          "descricao":"Abertura ofical da IV Edição da Festa do Peixe de Esperantina -   PI",
-         "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
+         "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/esp_vista_alto.jpg"
       },
       "programacao_esportiva":[  
          {  
