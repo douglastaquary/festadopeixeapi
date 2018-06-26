@@ -37,8 +37,8 @@
             "nome":"Márcia Felipe",
             "horario":"00h",
             "local":"Palco Principal",
-            "descricao":"Final Intercolegial ",
-            "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
+            "descricao":" Forró, Sofrência ",
+            "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/marcia_felipe.jpg"
          }
       ]
    },
@@ -125,7 +125,7 @@
             "horario":"00h",
             "local":"Palco Principal",
             "descricao":"Final Intercolegial ",
-            "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
+            "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/marcia_felipe.jpg"
          }
       ]
    }
