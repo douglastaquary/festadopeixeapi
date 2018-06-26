@@ -1,6 +1,7 @@
    {
       "restaurantes":[  
          {  
+            "id": "1",
             "nome":"Teresinha & CIA",
             "bebidas":"Cervejas Brahma e Skol de lata e 600ml",
             "comidas":"Caldo de peixe, Costelinha de tilápias, Tambaqui assado com pirão",
@@ -8,6 +9,7 @@
             "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
          },
          {  
+            "id": "2",
             "nome":"Depósito O Bossuet",
             "bebidas":"Cervejas Brahma e Skol de lata e 600ml, longneck budwiser",
             "comidas":"Costelinha de tilápias, Tambaqui assado",
@@ -15,6 +17,7 @@
             "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
          },
         {  
+            "id": "3",
             "nome":"Asa Norte",
             "bebidas":"Cervejas Brahma e Skol de lata e 600ml",
             "comidas":"Costelinha de tilápias, Tambaqui assado",
