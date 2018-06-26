@@ -1,1 +1,25 @@
-r
+   {
+      "restaurantes":[  
+         {  
+            "nome":"Teresinha & CIA",
+            "bebidas":"Cervejas Brahma e Skol de lata e 600ml",
+            "comidas":"Caldo de peixe, Costelinha de tilápias, Tambaqui assado com pirão",
+            "observacao":"Aceitamos cartão - Visa e Mastercard",
+            "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
+         },
+         {  
+            "nome":"Depósito O Bossuet",
+            "bebidas":"Cervejas Brahma e Skol de lata e 600ml, longneck budwiser",
+            "comidas":"Costelinha de tilápias, Tambaqui assado",
+            "observacao":"Aceitamos cartão - Visa e Mastercard",
+            "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
+         },
+        {  
+            "nome":"Asa Norte",
+            "bebidas":"Cervejas Brahma e Skol de lata e 600ml",
+            "comidas":"Costelinha de tilápias, Tambaqui assado",
+            "observacao":"Não aceitamos cartões",
+            "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
+         }
+      ]
+   }
