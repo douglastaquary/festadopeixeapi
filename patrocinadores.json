@@ -4,17 +4,17 @@
          {  
             "nome":"Governo do Estado do Piauí",
             "descricao":"Nossa gente, nossa força",
-            "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
+            "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/gov_logo_brasao.jpg"
          },
          {  
             "nome":"Prefeitura de Esperantina",
             "descricao":"Nossa gente, nossa força",
-            "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
+            "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/gov_logo_brasao.jpg"
          },
         {  
             "nome":"Policia Militar",
             "descricao":"Segurança",
-            "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
+            "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/gov_logo_brasao.jpg"
          }
       ]
    }
