@@ -1,6 +1,4 @@
-
-   {
-      "patrocinadores":[  
+[  
          {  
             "nome":"Governo do Estado do Piauí",
             "descricao":"Nossa gente, nossa força",
@@ -16,5 +14,5 @@
             "descricao":"Segurança",
             "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/gov_logo_brasao.jpg"
          }
-      ]
-   }
+]
+
