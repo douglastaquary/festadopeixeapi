@@ -1,7 +1,8 @@
 [  
    {  
       "id":"1",
-      "date":"Dia 27/07 (Sexta-feira)",
+      "day":"SEXTA",
+      "date":"27.07.2018",
       "evento":{  
          "nome":"Abertura Oficial",
          "horario":"19h",
@@ -44,7 +45,8 @@
    },
    {  
       "id":"2",
-      "date":"Dia 28/07 (Sábado)",
+      "day":"SÁBADO",
+      "date":"28.07.2018",
       "evento":{  
          "nome":"2º DIA - Garoto e Garota do Peixe",
          "horario":"19h",
@@ -88,7 +90,8 @@
    
    {  
       "id":"3",
-      "date":"Dia 29/07 (Domingo)",
+      "day":"DOMINGO",
+      "date":"29.07.2018",
       "evento":{  
          "nome":"Ultimo dia - Festa do Peixe",
          "horario":"19h",
