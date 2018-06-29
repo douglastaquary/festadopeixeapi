@@ -5,7 +5,7 @@
       "bebidas":"Cervejas Brahma e Skol de lata e 600ml",
       "comidas":"Caldo de peixe, Costelinha de tilápias, Tambaqui assado com pirão",
       "observacao":"Aceitamos cartão - Visa e Mastercard",
-      "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/grocery.png"
+      "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/store.png"
    },
    {  
       "id":"2",
@@ -21,6 +21,6 @@
       "bebidas":"Cervejas Brahma e Skol de lata e 600ml",
       "comidas":"Costelinha de tilápias, Tambaqui assado",
       "observacao":"Não aceitamos cartões",
-      "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/grocery.png"
+      "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/store.png"
    }
 ]
