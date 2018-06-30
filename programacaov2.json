@@ -1,8 +1,14 @@
 {  
    "imagens":[  
-      "https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/cachoeira_urubu.jpg",
-      "https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/marcia_felipe.jpg",
-      "https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/esp_vista_alto.jpg"
+      {  
+         "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/cachoeira_urubu.jpg"
+      },
+      {  
+         "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/esp_cachoeira.jpg"
+      },
+      {  
+         "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/esp_vista_alto.jpg"
+      }
    ],
    "programacao":[  
       {  
