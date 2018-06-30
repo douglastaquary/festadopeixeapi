@@ -17,7 +17,7 @@
          "date":"27.07.2018",
          "evento":{  
             "nome":"Abertura Oficial",
-            "horario":"19h",
+            "horario":"19:00",
             "local":"Praça Leonidas Melo",
             "descricao":"Abertura ofical da 4ª Edição da Festa do Peixe de Esperantina - PI",
             "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/cachoeira_urubu.jpg"
@@ -41,14 +41,14 @@
          "programacao_cultural":[  
             {  
                "nome":"Banda Som e Louvor",
-               "horario":"09h",
+               "horario":"19:00",
                "local":"Palco Peixe",
                "descricao":"Show evangélico",
                "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
             },
             {  
                "nome":"Márcia Felipe",
-               "horario":"00h",
+               "horario":"00:00",
                "local":"Palco Principal",
                "descricao":" Forró, Sofrência ",
                "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/marcia_felipe.jpg"
@@ -69,14 +69,14 @@
          "programacao_esportiva":[  
             {  
                "nome":"Final Intercolegial - Time A X Time B",
-               "horario":"09h",
+               "horario":"20:00",
                "local":"Quadra Polisportiva",
                "descricao":"Final Intercolegial ",
                "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
             },
             {  
                "nome":"Final Intercolegial - Time A X Time B",
-               "horario":"09h",
+               "horario":"17:00",
                "local":"Quadra Polisportiva",
                "descricao":"Final Intercolegial ",
                "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
@@ -85,14 +85,14 @@
          "programacao_cultural":[  
             {  
                "nome":"Banda Som e Louvor",
-               "horario":"09h",
+               "horario":"23:00",
                "local":"Palco Peixe",
                "descricao":"Show evangélico",
                "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
             },
             {  
                "nome":"Márcia Felipe",
-               "horario":"00h",
+               "horario":"21:00",
                "local":"Palco Principal",
                "descricao":"Final Intercolegial ",
                "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
