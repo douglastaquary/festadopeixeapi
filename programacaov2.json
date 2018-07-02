@@ -22,12 +22,12 @@
             "descricao":"Abertura ofical da 4ª Edição da Festa do Peixe de Esperantina - PI",
             "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/cachoeira_urubu.jpg"
          },
-         "atracoes":[
-            {
-               "imagem": "https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/zeze.jpeg"
+         "atracoes":[  
+            {  
+               "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/zeze.jpeg"
             },
-            {
-               "imagem": "https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/marcia_felipev2.jpeg"
+            {  
+               "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/marcia_felipev2.jpeg"
             }
          ],
          "data":[  
@@ -73,10 +73,10 @@
             "local":"Praça Leonidas Melo",
             "descricao":"Escolha do Garoto e Garota do Peixe",
             "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/esp_cachoeira.jpg"
-         },,
-         "atracoes":[
-            {
-               "imagem": "https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/luan_santanav2.jpeg"
+         },
+         "atracoes":[  
+            {  
+               "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/luan_santanav2.jpeg"
             }
          ],
          "data":[  
@@ -123,12 +123,12 @@
             "descricao":"Encerramento da 4ª Edição do Evento",
             "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/esp_vista_alto.jpg"
          },
-         "atracoes":[
-            {
-               "imagem": "https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/marilia_mendoncav2.jpeg"
+         "atracoes":[  
+            {  
+               "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/marilia_mendoncav2.jpeg"
             },
-            {
-               "imagem": "https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/marcia_felipev2.jpeg"
+            {  
+               "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/marcia_felipev2.jpeg"
             }
          ],
          "data":[  
