@@ -55,10 +55,17 @@
                "imagem":"https://randomuser.me/api/portraits/men/29.jpg"
             },
             {  
-               "nome":"Márcia Felipe",
-               "horario":"00:00",
-               "local":"Palco Principal",
-               "descricao":" Forró, Sofrência ",
+               "nome":"Zezé di Camargo e Luciano",
+               "horario":"21:00",
+               "local":"Palco Principal - Av. Petrônio Portela",
+               "descricao":"Sertanejo",
+               "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/marcia_felipe.jpg"
+            },
+            {  
+               "nome":"Marcia Felipe",
+               "horario":"23:00",
+               "local":"Palco Principal - Av. Petrônio Portela",
+               "descricao":"Forró, sofrência",
                "imagem":"https://raw.githubusercontent.com/douglastaquary/festadopeixeapi/master/marcia_felipe.jpg"
             }
          ]
